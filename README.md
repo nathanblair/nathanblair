@@ -8,12 +8,12 @@
 
 * Otherwise, you'll find me behind the :drum: or on a :motorcycle:
 
-* Currently [@Genetesis](https://github.com/Genetesis), previously [@BlueQuartzSoftware](https://github.com/BlueQuartzSoftware) and [@Ascendum](https://github.com/vora)
+* Currently @NantGames, previously [@Genetesis](https://github.com/Genetesis), [@BlueQuartzSoftware](https://github.com/BlueQuartzSoftware) and [@Ascendum](https://github.com/vora)
 
 * Owner of [@SonicOriginalSoftware](https://github.com/SonicOriginalSoftware)
 
-  - We're gonna make some cool things here, don't you worry!
+  - We're gonna make some cool things there! Once I get a free moment...
 
-Working on making containers less of a hassle for everybody. Check out [@genuinetools](https://github.com/genuinetools).
+Working on making containers less of a hassle for everybody.
 
 Much :heart: and :v:
