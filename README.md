@@ -1,14 +1,14 @@
 # Hi
 
-- I'm Nathan Blair.
+- I'm **Nathan Blair**.
 
-- Mechanical and Materials Engineer now doing all things DevOps
+- Mechanical and Materials Engineer now doing all things DevSecOps
 
-- `go`, `rust`, `python`, `c`, and `c++`
+- `go`, `rust`, and `python`
 
 * Otherwise, you'll find me behind the :drum: or on a :motorcycle:
 
-* Currently @NantGames, previously [@Genetesis](https://github.com/Genetesis), [@BlueQuartzSoftware](https://github.com/BlueQuartzSoftware) and [@Ascendum](https://github.com/vora)
+* Previously @NantGames, [@Genetesis](https://github.com/Genetesis), [@BlueQuartzSoftware](https://github.com/BlueQuartzSoftware) and [@Ascendum](https://github.com/vora)
 
 * Owner of [@SonicOriginalSoftware](https://github.com/SonicOriginalSoftware)
 
