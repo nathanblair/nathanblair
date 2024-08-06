@@ -17,3 +17,7 @@
 Working on making containers less of a hassle for everybody.
 
 Much :heart: and :v:
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanblair)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanblair)](https://github.com/anuraghazra/github-readme-stats)
