@@ -8,7 +8,7 @@
 
 * Otherwise, you'll find me behind the :drum: or on a :motorcycle:
 
-* Previously @NantGames, [@Genetesis](https://github.com/Genetesis), [@BlueQuartzSoftware](https://github.com/BlueQuartzSoftware) and [@Ascendum](https://github.com/vora)
+* Previously [@TEN](https://github.com/ten-leasing), @NantGames, [@Genetesis](https://github.com/Genetesis), [@BlueQuartzSoftware](https://github.com/BlueQuartzSoftware) and [@Ascendum](https://github.com/vora)
 
 * Owner of [@SonicOriginalSoftware](https://github.com/SonicOriginalSoftware)
 
