@@ -1,4 +1,4 @@
-I'm **Nathan Blair**. Owner of [@SonicOriginalSoftware](https://github.com/SonicOriginalSoftware)
+I'm **Nathan Blair**. Owner of [@SonicOriginalSoftware](https://github.com/sonic-original-software)
 
 Mechanical and Materials Engineer. Now doing all things DevSecGitOps. You'll also find me behind the :drum: or occasionally on a :motorcycle:.
 
