@@ -4,6 +4,7 @@ Mechanical and Materials Engineer. Now doing all things DevSecGitOps. You'll als
 
 ## Previously
 
+* [@Miris Inc](https://github.com/miris-inc)
 * [@TEN](https://github.com/ten-leasing)
 * @NantGames
 * [@Genetesis](https://github.com/Genetesis)
