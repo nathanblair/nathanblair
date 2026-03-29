@@ -12,7 +12,3 @@ Mechanical and Materials Engineer. Now doing all things DevSecGitOps. You'll als
 * [@Ascendum](https://github.com/vora)
 
 Much :heart: and :v:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanblair&show_icons=true&rank_icon=github&show=prs_merged)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanblair&layout=compact)
